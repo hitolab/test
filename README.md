@@ -2,4 +2,4 @@
 いとうひろしです。
 こんにちは。
 よしながです
-kusudesu
+kusudesu.
